@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\catapolt3D\Assets\Lookat.js">
+    <Files>
+      <File FileName="..\catapolt3D\Assets\Hammer.js" Line="6" Column="37" />
+      <File FileName="..\catapolt3D\Assets\Bullet.js" Line="11" Column="2" />
+      <File FileName="..\catapolt3D\Assets\Lookat.js" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

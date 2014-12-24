@@ -1,0 +1,27 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1140]
+    Renderer: AMD Radeon HD 7640G + 7670M Dual Graphics
+    Vendor:   ATI
+    VRAM:     1471 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\OpenCvSharp.Blob.dll (this message is harmless)
+Loading D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\OpenCvSharp.Blob.dll into Unity Child Domain
+Platform assembly: D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\OpenCvSharp.dll (this message is harmless)
+Loading D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\OpenCvSharp.dll into Unity Child Domain
+Platform assembly: D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\OpenCvSharp.MachineLearning.dll (this message is harmless)
+Loading D:\Application\Projects\Unity3D\CvTest\CvTest_Data\Managed\OpenCvSharp.MachineLearning.dll into Unity Child Domain
+- Completed reload, in  0.537 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+width:320 height:240
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
